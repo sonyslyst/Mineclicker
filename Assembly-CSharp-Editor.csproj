@@ -96,7 +96,7 @@
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="JarResolverLib">
- <HintPath>F:/Sondre programm coding sjå Asmund/Original MineClicker (husk og optatere)/Mine Clicker/Assets/GooglePlayGames/Editor/JarResolverLib.dll</HintPath>
+ <HintPath>F:/SondreProgrammCodingSjåAsmund/Original MineClicker (husk og optatere)/Mine Clicker/Assets/GooglePlayGames/Editor/JarResolverLib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
